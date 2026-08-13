@@ -6,6 +6,8 @@ if pontos >= 100:
     pontos = pontos+10
 elif pontos >=50:
     pontos = pontos+5
+elif pontos >= 30:
+    pontos = pontos+2
 else:
     pontos = pontos
 
